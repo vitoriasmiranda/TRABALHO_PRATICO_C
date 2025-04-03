@@ -4,9 +4,6 @@
 #define MAX_FIGURAS 10
 #define PI 3.14159
 
-/*Trabalho Pratico: Sistema de C�lculo de Propriedades Geom�tricas*/
-/*Aluna: Vitoria de Souza Miranda Matricula: 24.2.8019*/
-
 /*Os valores utilizados para teste do c�digo foram:
 Circulo: Raio = 4
 
