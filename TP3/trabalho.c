@@ -6,9 +6,6 @@
 #define MAX_FIGURAS 10
 #define PI 3.14159
 
-//Trabalho Pratico: Sistema de Calculo de Propriedades Geometricas
-//Aluna: Vitoria de Souza Miranda Matricula: 24.2.8019
-
 //Os valores utilizados para teste do codigo foram:
 //Circulo: Raio = 4
 
